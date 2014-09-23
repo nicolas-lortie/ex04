@@ -1,7 +1,4 @@
-import 'dart:math' as math;
-
-void main() {
-  /*There is a point in the center of a rectangle with the width of 800 
+/*There is a point in the center of a rectangle with the width of 800 
     and the height of 600 pixels (or millimeters on paper). The north-west
     corner of the rectangle has zero coordinates (x = 0, y = 0). Positive x 
     numbers go towards the east of the rectangle. Positive y numbers go 
@@ -16,6 +13,10 @@ void main() {
     the angle of 45 degrees, calculate the end point of the line.
     * 
      */
+
+import 'dart:math' as math;
+
+void main() {
 
   var width = (800);
   var height = (600);
