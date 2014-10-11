@@ -17,7 +17,6 @@
 import 'dart:math' as math;
 
 void main() {
-
   var width = (800);
   var height = (600);
   var center_x = (width / 2);
@@ -33,8 +32,4 @@ void main() {
   var finish_y = ((center_y + displacement).toStringAsFixed(2));
 
   print('Exercice 2\nThe coordinates (x,y) of the endpoint are: ($finish_x,$finish_y)');
-
-
-
-
 }

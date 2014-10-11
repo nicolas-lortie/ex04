@@ -3,3 +3,24 @@ Exercice #4
 SIO-2109, Automne 2014
 Remis à Dzenan Ridjanovic
 
+18/20
+
+4.1
+String sequence(var a) {
+-->
+String sequence(int a) {
+
+4.2
+fonction?
+
+4.3
+fonction?
+
+4.4
+fonction?
+
+4.5
+fonction?
+
+-2 fonctions?
+

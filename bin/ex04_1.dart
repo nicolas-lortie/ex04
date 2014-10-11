@@ -1,6 +1,6 @@
 //Print the first 10 numbers, starting with 0, of the Fibonacci sequence.
 
-String sequence(var a) {
+String sequence(int a) {
   int b = (0);
   int c = (1);
   int d = (1);
@@ -15,6 +15,7 @@ String sequence(var a) {
   }
   return begin;
 }
+
 main() {
   int stop = 9;
   String fibonacci = sequence(stop);
